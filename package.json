@@ -1,0 +1,40 @@
+{
+  "name": "grunt-swig-precompile",
+  "version": "0.2.1",
+  "description": "precompile swig template to html page.",
+  "homepage": "http://blog.yunjiagou.wang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YYwork/grunt-swig-precompile"
+  },
+  "author": "FuGardenia <fooying@qq.com> (http://blog.yunjiagou.wang)",
+  "keywords": [
+    "gruntplugin swig precompile html"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "grunt": "~0.4.2",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "dependencies": {
+    "swig": "~1.3.2",
+    "js-beautify": ">=1.5.4"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "bugs": {
+    "url": "https://github.com/YYwork/grunt-swig-precompile/issues"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
