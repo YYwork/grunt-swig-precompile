@@ -2,6 +2,8 @@
 
 > precompile swig template to html page.
 
+#[blog: html 模板 swig 预编译插件 grunt-swig-precompile](http://www.cnblogs.com/yunqianduan/p/4692326.html)
+
 ## dependencies
 1. [swig](http://paularmstrong.github.io/swig/docs/api/)
 2. [js-beautify](https://www.npmjs.org/package/js-beautify)
