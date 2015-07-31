@@ -1,6 +1,6 @@
 {
   "name": "grunt-swig-precompile",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "precompile swig template to html page.",
   "homepage": "http://blog.yunjiagou.wang",
   "repository": {
